@@ -40,27 +40,3 @@ My main stack is Kotlin, Kotlin Multiplatform, Android, iOS integration, Gradle,
 Kotlin Multiplatform  |  Android  |  iOS  |  Mobile Platform Engineering
 Gradle                |  Compose  |  Library Design  |  Developer Tooling
 ```
-
-## Projects
-
-### MultiFunctions
-
-A Kotlin Multiplatform utility library for binding and transforming multiple values without deep nested control flow.
-
-```kotlin
-Quad(user, orders, favorites, notes).let { user, orders, favorites, notes ->
-    renderPage(user, orders, favorites, notes)
-}
-```
-
-The project targets JVM, Android, JS, WASM, and Native, and includes local build, test, and release automation.
-
----
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stupacki&show_icons=true&hide_border=true&rank_icon=github">
-</p>
-
-<p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupacki&layout=compact&hide_border=true">
-</p>
