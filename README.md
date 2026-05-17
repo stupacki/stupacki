@@ -20,11 +20,11 @@ I build mobile software with a strong focus on clean architecture, reliable deli
 
 My main stack is Kotlin, Kotlin Multiplatform, Android, iOS integration, Gradle and mobile platform engineering. I like codebases that are easy to reason about, local tooling that developers actually use and abstractions that earn their place.
 
-## Experience Highlights
+## Apps i worked for
 
 - Worked on the [REWE Lieferservice Android app](https://play.google.com/store/search?q=rewe+lieferservice+app&c=apps&utm_source=emea_Med).
 - Worked on the Vorwerk Thermomix Cookidoo app for [Android](https://play.google.com/store/search?q=cookidoo&c=apps&utm_source=emea_Med) and [iOS](https://apps.apple.com/de/app/die-thermomix-cookidoo-app/id714004506).
-- Currently working for Vorwerk on a mobile app platform with Kotlin Multiplatform, Android and iOS.
+- Currently working for Vorwerk on a mobile app platform with Kotlin Multiplatform, Android and iOS for Vorwerks mobile apps ecosystem.
 
 ## What I Care About
 
@@ -33,10 +33,3 @@ My main stack is Kotlin, Kotlin Multiplatform, Android, iOS integration, Gradle 
 - Shared mobile platform code that reduces duplication without hiding platform strengths.
 - Gradle builds, release scripts and local automation that make delivery less fragile.
 - Small libraries with focused APIs and clear behavior.
-
-## Current Focus
-
-```text
-Kotlin Multiplatform  |  Android  |  iOS  |  Mobile Platform Engineering
-Gradle                |  Compose  |  Library Design  |  Developer Tooling
-```
