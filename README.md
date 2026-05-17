@@ -33,3 +33,17 @@ My main stack is Kotlin, Kotlin Multiplatform, Android, iOS integration, Gradle 
 - Shared mobile platform code that reduces duplication without hiding platform strengths.
 - Gradle builds, release scripts and local automation that make delivery less fragile.
 - Small libraries with focused APIs and clear behavior.
+
+## Programming Languages i worked with
+
+- Kotlin
+- Scala
+- Clojure
+- Java
+- Groovy (Gradle)
+- Swift
+- Objective C
+- JavaScript
+- TypeScript
+- Python
+- Bash
